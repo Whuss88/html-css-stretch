@@ -1,0 +1,9 @@
+body {
+  color: lightgray;
+}
+h1 {
+  color: olive;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
